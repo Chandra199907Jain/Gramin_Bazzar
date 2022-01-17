@@ -1,1 +1,1 @@
-web: gunicorn bazzar.wsgi --log-file -
+web: gunicorn farmers.wsgi --log-file -
